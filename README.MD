@@ -4,9 +4,10 @@
 </p>
 
 ## Installation
+
 ### Prerequisites
 
-- Install [AutoHotkeyV2](https://www.autohotkey.com/) ([Direct Download](https://www.autohotkey.com/download/ahk-v2.exe))
+- Install [AutoHotkeyV2](https://www.autohotkey.com/) <sup>([Direct Download](https://www.autohotkey.com/download/ahk-v2.exe))</sup>
 
 ### Setup
 
