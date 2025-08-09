@@ -4,10 +4,15 @@
 </p>
 
 ## Installation
+### Prerequisites
 
-Install [AutoHotkeyV2](https://www.autohotkey.com/) <sup>[Direct](https://www.autohotkey.com/download/ahk-v2.exe)</sup>
+- Install [AutoHotkeyV2](https://www.autohotkey.com/) ([Direct Download](https://www.autohotkey.com/download/ahk-v2.exe))
 
-Download the script and run it
+### Setup
+
+1. [Download the RAAFK script](https://raw.githubusercontent.com/TheXploler/RAAFK/refs/heads/main/RAAFK.ahk)<sup> Right-click the link and choose "Save link as..." or press <kbd>Ctrl</kbd>+<kbd>S</kbd></sup>
+2. Double-click the downloaded `.ahk` file to run the script.
+3. Focus your cursor on the Roblox window.
 
 ## Contributing
 
