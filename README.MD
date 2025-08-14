@@ -1,10 +1,25 @@
 ![RAAFK Banner](Github/RAAFKBanner.png)
 <h1 align="center">RAAFK</h1>
 <p align="center">
-  A simple <a href="https://www.autohotkey.com/">AutoHotkeyV2</a> script to bypass Roblox 20 minute AFK window by moving your character randomly
+  A simple <a href="https://www.autohotkey.com/">AutoHotkeyV2</a> and standalone script to bypass Roblox 20 minute AFK window by moving your character randomly
 </p>
 
-## Installation
+## Installation (Standalone)
+
+### Prerequisites
+- Install [Python 3](https://www.python.org/downloads/)
+
+### Setup
+1. Download the repository
+2. Use [pip](https://pip.pypa.io/en/stable/) to install requirements.txt
+```bash
+  pip install -r requirements.txt
+```
+3. Run the script
+```bash
+python "RAAFK.py"
+```
+## Installation (AHKV2)
 
 ### Prerequisites
 
