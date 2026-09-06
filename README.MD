@@ -1,3 +1,5 @@
+# RAAFK are now a part of [FReplay](https://github.com/TheXploler/FReplay)
+
 ![RAAFK Banner](Github/RAAFKBanner.png)
 <h1 align="center">RAAFK</h1>
 <p align="center">
